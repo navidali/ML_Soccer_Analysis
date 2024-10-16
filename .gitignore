@@ -1,0 +1,9 @@
+.vscode/
+runs/detect/predict/
+yolo_inference.py
+__pycache__
+output_videos/*
+stubs/*
+!*/.gitkeep
+training/runs/detect/train/
+best.pt
